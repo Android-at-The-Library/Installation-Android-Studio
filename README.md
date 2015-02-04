@@ -26,7 +26,7 @@ If you are using Ubuntu linux please run the following command to install java:
 
 then
 
-`sudo apt-get install openjdk-7-jdk
+`sudo apt-get install openjdk-7-jdk`
 
 #### Install Android Studio
 
