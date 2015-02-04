@@ -36,4 +36,4 @@ http://developer.android.com/sdk/index.html
 
 #### Next Steps
 
-Click here to go to the (next steps)[NextSteps.md], setting up Android Studio
+Click here to go to the [next steps](NextSteps.md), setting up Android Studio
