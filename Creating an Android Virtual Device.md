@@ -2,7 +2,7 @@
 
 There is a video accompanying these instructions here:
 
-https://www.youtube.com/watch?v=NahsPOONPfU&index=3&list=PL9coNMWLqHhzgS8_96nDkxVrhcB4B2Cmj
+https://www.youtube.com/watch?v=yBexx3JNH7Y&index=4&list=PL9coNMWLqHhzgS8_96nDkxVrhcB4B2Cmj
 
 # Instructs
 
