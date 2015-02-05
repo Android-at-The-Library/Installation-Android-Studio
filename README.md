@@ -11,7 +11,7 @@ quick links:
 
 * [Windows 8](#windows-8)
 * [Mac Os X](#mac-os-x)
-* [Ubuntu Linux](ubuntu-linux)
+* [Ubuntu Linux](#ubuntu-linux)
 
 
 
