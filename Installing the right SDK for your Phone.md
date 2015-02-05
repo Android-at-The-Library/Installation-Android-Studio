@@ -19,7 +19,7 @@ You will need to check which version of Android you have, e.g., Jelly Bean (18 a
 <img src=".images/sdk-about-device.png" alt="phone" width="200px" /> 
 </p>
 
-**3) look for your Android Version **
+**3) look for your Android Version**
 
 
 <p align="center">
