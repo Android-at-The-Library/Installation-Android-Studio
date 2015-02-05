@@ -15,7 +15,7 @@ You will need to check which version of Android you have, e.g., Jelly Bean (18 a
 
 2) scroll down to where it says "About Device"
 
-<img src=".images/sdk-about-device.png" alt="phone" style="width:200px;"/>
+<img src=".images/sdk-about-device.png" alt="phone" style="width:10px;"/>
 
 3) look for your Android Version 
 
