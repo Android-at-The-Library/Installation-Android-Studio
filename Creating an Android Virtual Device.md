@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=yBexx3JNH7Y&index=4&list=PL9coNMWLqHhzgS8_96nDkx
 
 1) Open the Android Virtual Device (AVD) Manager
 
-[!img](./.images/open-avd-manager.png)
+![img](.images/open-avd-manager.png)
 
 2) Select your device of choice (recommended to use the default or a Nexus)
 
