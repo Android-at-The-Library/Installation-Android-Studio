@@ -15,17 +15,22 @@ You will need to check which version of Android you have, e.g., Jelly Bean (18 a
 
 2) scroll down to where it says "About Device"
 
+<p align="center">
 <img src=".images/sdk-about-device.png" alt="phone" width="200px" /> 
+</p>
 
 3) look for your Android Version 
 
 
+<p align="center">
 <img src=".images/sdk-android-version-for-mascot.png" alt="phone" width="200px" /> 
+</p>
 
 3.5) if you would like to see the name, just tap "Android Version" a lot to reveal your dessert/mascot.
 
-
+<p align="center">
 <img src=".images/sdk-mascot-example.png" alt="phone" width="200px" /> 
+</p>
 
 4) write that number (or mascot) down :thumbsup:
 
@@ -38,13 +43,17 @@ You will need to check which version of Android you have, e.g., Jelly Bean (18 a
 
 2) scroll down to where it says "About your Phone"
 
+<p align="center">
 <img src=".images/sdk-android-version-for-mascot.png" alt="phone" width="200px" /> 
+</p>
 
 3) Tap on this, and tap on the kernel version a lot, and you will activate :sparkles:Developer Mode:sparkles
 
 4) Open your new Developer Mode options from settings, and click on "Enable USB Debugging" that's important :smiley:
 
+<p align="center">
 <img src=".images/sdk-usb-debugging.png" alt="phone" width="200px" /> 
+</p>
 
 ## Download files
 
