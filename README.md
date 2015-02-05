@@ -9,9 +9,9 @@ There are two things you will need to download:
 
 quick links:
 
-* [Windows 8](Windows 8)
-* [Mac Os X](Mac Os X)
-* [Ubuntu Linux](Ubuntu Linux)
+* [Windows 8](#windows-8)
+* [Mac Os X](#mac-os-x)
+* [Ubuntu Linux](ubuntu-linux)
 
 
 
