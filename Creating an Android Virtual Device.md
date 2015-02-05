@@ -16,8 +16,9 @@ https://www.youtube.com/watch?v=yBexx3JNH7Y&index=4&list=PL9coNMWLqHhzgS8_96nDkx
 
 3) For the least bugs, we recommend using "arm..." for the next option instead of intel
 
-(Todo Add Image)
+![img](.images/arm-aebi-select.png)
 
 4) open your virtual device (press play)
 
-(Todo Add Image)
+![img](.images/avd-press-play.png)
+
