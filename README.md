@@ -35,7 +35,22 @@ http://developer.android.com/sdk/index.html
 
 ## Mac Os X
 
-(TBD)
+http://support.apple.com/kb/DL1572?viewlocale=en_US&locale=en_US
+
+#### Install Java
+
+1) go [here](http://support.apple.com/kb/DL1572?viewlocale=en_US&locale=en_US) and use the download link to and install Java.
+
+#### Install Android Studio
+
+2) use the link below to install Android Studio
+
+http://developer.android.com/sdk/index.html
+
+#### Next Steps
+
+3) go to the [next step](NextSteps.md)
+
 
 ## Ubuntu Linux
 
