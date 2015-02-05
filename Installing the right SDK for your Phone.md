@@ -38,7 +38,7 @@ You will need to check which version of Android you have, e.g., Jelly Bean (18 a
 
 2) scroll down to where it says "About your Phone"
 
-<img src=".images/sdk-android-version-for-mascot.png" alt="phone" style="width:200px;"/>
+<img src=".images/sdk-android-version-for-mascot.png" alt="phone" style="width:10px;"/>
 
 3) Tap on this, and tap on the kernel version a lot, and you will activate :sparkles:Developer Mode:sparkles
 
