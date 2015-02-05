@@ -7,6 +7,13 @@ There are two things you will need to download:
 
 2) Android Studio (afterwards it we'll do more dl's on it)
 
+quick links:
+
+* [Windows 8](Windows 8)
+* [Mac Os X](Mac Os X)
+* [Ubuntu Linux](Ubuntu Linux)
+
+
 
 ## Windows 8
 
