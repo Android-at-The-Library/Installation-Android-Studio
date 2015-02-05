@@ -10,7 +10,21 @@ There are two things you will need to download:
 
 ## Windows 8
 
-(TBD)
+
+#### Install Java
+
+1) go [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) and make sure to  download the one for Windows.
+
+#### Install Android Studio
+
+2) use the link below to install Android Studio
+
+http://developer.android.com/sdk/index.html
+
+#### Next Steps
+
+3) restart your computer, and go to the [next step](NextSteps.md)
+
 
 ## Mac Os X
 
