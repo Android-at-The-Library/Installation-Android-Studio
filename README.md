@@ -13,7 +13,7 @@ quick links:
 * [Mac Os X](#mac-os-x)
 * [Ubuntu Linux](#ubuntu-linux)
 
-
+---
 
 ## Windows 8
 
@@ -32,6 +32,7 @@ http://developer.android.com/sdk/index.html
 
 3) restart your computer, and go to the [next step](NextSteps.md)
 
+---
 
 ## Mac Os X
 
@@ -51,6 +52,7 @@ http://developer.android.com/sdk/index.html
 
 3) go to the [next step](NextSteps.md)
 
+---
 
 ## Ubuntu Linux
 
