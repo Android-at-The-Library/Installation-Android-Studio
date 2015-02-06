@@ -6,6 +6,7 @@
 
 3) downloading the right files (if before lollipop)
 
+
 ## finding out which version of Android you have
 
 You will need to check which version of Android you have, e.g., Jelly Bean (18 aka 4.2), KitKat (19 aka 4.3), or Lollipop (20 aka 5+)
@@ -56,6 +57,10 @@ You will need to check which version of Android you have, e.g., Jelly Bean (18 a
 </p>
 
 ## Download files
+
+Quickest guide for SDK setup below. 
+
+(alternatively, we also have a 2min video which walks through the process here: http://youtu.be/-0Q1Vxg2veU)
 
 **1) Close all projects and Re-open Android Studio**
 
