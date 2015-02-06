@@ -65,10 +65,10 @@ You will need to check which version of Android you have, e.g., Jelly Bean (18 a
 <img src=".images/sdk_images_installation/open_sdk_manager_1.png" alt="phone" width="600px" /> 
 </p>
 
-**3) ...then click SDK Manager
+**3) ...then click SDK Manager**
 
 <p align="center">
-<img src=".images/sdk_images_installation/open_sdk_manager_2.png " alt="phone" width="600px" /> 
+<img src=".images/sdk_images_installation/open_sdk_manager_2.png" alt="phone" width="600px" /> 
 </p>
 
 
