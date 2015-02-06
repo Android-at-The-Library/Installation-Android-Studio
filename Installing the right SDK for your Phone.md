@@ -72,14 +72,7 @@ You will need to check which version of Android you have, e.g., Jelly Bean (18 a
 </p>
 
 
-**4) Click the highest number of your version under "Tools" (shown here is Kitkat, aka version 19)**
-
-<p align="center">
-<img src=".images/sdk_images_installation/open_sdk_manager_3.png" alt="phone" width="600px" /> 
-</p>
-
-
-**4.5) Then scroll down and click on only the first item in that version's folder (shown here is Kitkat)**
+**4) Then scroll down and click on only the first item in that version's folder (shown here is Kitkat)**
 
 <p align="center">
 <img src=".images/sdk_images_installation/open_sdk_manager_4.png" alt="phone" width="600px" /> 
