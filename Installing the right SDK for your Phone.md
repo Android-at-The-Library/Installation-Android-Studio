@@ -75,25 +75,25 @@ You will need to check which version of Android you have, e.g., Jelly Bean (18 a
 **4) Click the highest number of your version under "Tools" (shown here is Kitkat, aka version 19)**
 
 <p align="center">
-<img src=".images/sdk_images_installation/open_sdk_manager_3.png " alt="phone" width="200px" /> 
+<img src=".images/sdk_images_installation/open_sdk_manager_3.png" alt="phone" width="200px" /> 
 </p>
 
 
 **4.5) Then scroll down and click on only the first item in that version's folder (shown here is Kitkat)**
 
 <p align="center">
-<img src=".images/sdk_images_installation/open_sdk_manager_4.png " alt="phone" width="200px" /> 
+<img src=".images/sdk_images_installation/open_sdk_manager_4.png" alt="phone" width="200px" /> 
 </p>
 
 
 **6) Click Install**
 
 <p align="center">
-<img src=".images/sdk_images_installation/open_sdk_manager_4 clicking install 10 packages.png" alt="phone" width="200px" /> 
+<img src=".images/sdk_images_installation/open_sdk_manager_5.png" alt="phone" width="200px" /> 
 </p>
 
 **4) In the new window, select okay, agree to terms, and carry-on**
 
 <p align="center">
-<img src=".images/sdk_images_installation/open_sdk_manager_6_click accept license and then install.png" alt="phone" width="200px" /> 
+<img src=".images/sdk_images_installation/open_sdk_manager_6.png" alt="phone" width="200px" /> 
 </p>
