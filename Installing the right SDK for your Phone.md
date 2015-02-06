@@ -58,7 +58,7 @@ You will need to check which version of Android you have, e.g., Jelly Bean (18 a
 
 ## Download files
 
-Quickest guide for SDK setup below. 
+_Quickest guide for SDK setup below._ 
 
 (alternatively, we also have a 2min video which walks through the process here: http://youtu.be/-0Q1Vxg2veU)
 
