@@ -52,23 +52,48 @@ You will need to check which version of Android you have, e.g., Jelly Bean (18 a
 **4) Open your new Developer Mode options from settings, and click on "Enable USB Debugging" that's important** :smiley:
 
 <p align="center">
-<img src=".images/sdk-usb-debugging.png" alt="phone" width="200px" /> 
+<img src=".images/sdk-android-version-for-mascot.png" alt="phone" width="200px" /> 
 </p>
 
 ## Download files
 
-**1) Open SDK Manager Icon**
+**1) Close all projects and Re-open Android Studio**
 
-(Todo Add Image)
+**2) When you reopen Android Studio, select Configure**
 
-**2) Click the highest number of your version**
+<p align="center">
+<img src=".images/sdk_images_installation/open_sdk_manager_1.png" alt="phone" width="200px" /> 
+</p>
 
-(Todo Add image)
+**3) ...then click SDK Manager
 
-**3) Click on only the top-most part of your version of its folder**
+<p align="center">
+<img src=".images/sdk_images_installation/open_sdk_manager_2.png " alt="phone" width="200px" /> 
+</p>
 
-(Todo Add Image)
 
-**4) Install (select okay, agree to terms, and carry-on)**
+**4) Click the highest number of your version under "Tools" (shown here is Kitkat, aka version 19)**
 
-(Todo Add Image)
+<p align="center">
+<img src=".images/sdk_images_installation/open_sdk_manager_3.png " alt="phone" width="200px" /> 
+</p>
+
+
+**4.5) Then scroll down and click on only the first item in that version's folder (shown here is Kitkat)**
+
+<p align="center">
+<img src=".images/sdk_images_installation/open_sdk_manager_4.png " alt="phone" width="200px" /> 
+</p>
+
+
+**6) Click Install**
+
+<p align="center">
+<img src=".images/sdk_images_installation/open_sdk_manager_4 clicking install 10 packages.png" alt="phone" width="200px" /> 
+</p>
+
+**4) In the new window, select okay, agree to terms, and carry-on**
+
+<p align="center">
+<img src=".images/sdk_images_installation/open_sdk_manager_6_click accept license and then install.png" alt="phone" width="200px" /> 
+</p>
