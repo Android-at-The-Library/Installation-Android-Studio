@@ -28,9 +28,15 @@ quick links:
 
 http://developer.android.com/sdk/index.html
 
+#### Install Git
+
+3) install git:  
+
+http://git-scm.com/download/win
+
 #### Next Steps
 
-3) restart your computer, and go to the [next step](NextSteps.md)
+4) restart your computer, and go to the [next step](NextSteps.md)
 
 ===
 
