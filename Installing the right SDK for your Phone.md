@@ -48,7 +48,7 @@ You will need to check which version of Android you have, e.g., Jelly Bean (18 a
 <img src=".images/sdk-android-version-for-mascot.png" alt="phone" width="200px" /> 
 </p>
 
-**3) Find "build version" and tap it many time and you will activate :sparkles:Developer Mode:sparkles:**
+**3) Find "build version" and tap it many times and you will activate :sparkles:Developer Mode:sparkles:**
 
 <p align="center">
 <img src=".images/tapping_build_version.png" alt="phone" width="200px" /> 
