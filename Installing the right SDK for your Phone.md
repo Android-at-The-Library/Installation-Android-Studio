@@ -50,6 +50,10 @@ You will need to check which version of Android you have, e.g., Jelly Bean (18 a
 
 **3) Find "build version" and tap it many time and you will activate :sparkles:Developer Mode:sparkles:**
 
+<p align="center">
+<img src=".images/sdk_images_installation/open_sdk_manager_7.png" alt="phone" width="200px" /> 
+</p>
+
 **4) Open your new Developer Mode options from settings, and click on "Enable USB Debugging" that's important** :smiley:
 
 <p align="center">
