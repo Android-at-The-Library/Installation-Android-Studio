@@ -9,7 +9,7 @@
 
 ## finding out which version of Android you have
 
-Use the instructions below for finding out which version of Android you have, e.g., IceCreamSandwich (15), Jelly Bean (16, 17, 18 aka 4.2), KitKat (19 aka 4.3), or Lollipop (20 aka 5+).
+Use the instructions below for finding out which version of Android you have, e.g., IceCreamSandwich (15 aka Android 4.0), Jelly Bean (16 through 18 aka 4.1-4.3), KitKat (19 aka 4.4), KitKat Wear (API 20 aka Android 4.4W), or Lollipop (21 aka 5+).
 
 
 **1) open "Settings" on your phone**
