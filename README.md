@@ -66,7 +66,7 @@ http://developer.android.com/sdk/index.html
 
 If you are using Ubuntu linux please run the following command to install java:
 
-`sudo apt-get install update; sudo apt-get install upgrade`
+`sudo apt-get update; sudo apt-get upgrade`
 
 then
 
